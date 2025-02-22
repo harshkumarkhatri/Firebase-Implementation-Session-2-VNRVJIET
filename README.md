@@ -1,6 +1,16 @@
 # firebase_impl
 
-A new Flutter project.
+A firebase implementation app created for a session at VNR VJIET
+
+## PROJECT STRUCTURE
+* The project has 2 files
+    * main.dart
+        * Contains the implementation for the Authentication function
+
+    * main_two.dart
+        * Contains the implementation of Firestore database along with the Authentication function.
+
+* Before running the project, make sure you have added `google_services.json` files added to your app level directory.
 
 ## Getting Started
 
